@@ -447,7 +447,7 @@ function App() {
                 <div className={`w-80 h-80 bg-gradient-to-br ${theme.primary} rounded-full flex items-center justify-center shadow-2xl`}>
                   <div className="w-72 h-72 bg-white rounded-full overflow-hidden shadow-inner">
                     <img 
-                      src="/darshan.png" 
+                      src="darshan.png" 
                       alt="Darshan BM - Java Full Stack Developer"
                       className="w-full h-full object-cover"
                     />
